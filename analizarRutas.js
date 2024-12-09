@@ -1,3 +1,4 @@
+
 var path;
 
 function empezar(p) {
